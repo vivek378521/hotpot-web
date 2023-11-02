@@ -3,7 +3,7 @@ title: "Humans of TPOT: log(Sam)"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/hotpot-twitter-banner-sam.jpeg"
+image: "/images/hotpot-twitter-banner-sam.png"
 categories: ["tech-people", "tpot"]
 author: "Vivek Khatri"
 tags: ["blog", "twitter"]
