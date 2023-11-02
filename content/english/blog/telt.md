@@ -3,7 +3,7 @@ title: "Humans of TPOT: The Almighty Telt"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/hotpot-banner.jpeg"
+image: "/images/hotpot-twitter-banner-telt.png"
 categories: ["tech-people", "tpot"]
 author: "Vivek Khatri"
 tags: ["blog", "twitter"]
