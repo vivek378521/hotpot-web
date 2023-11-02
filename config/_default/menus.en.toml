@@ -7,9 +7,9 @@ url = "/"
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
-weight = 2
+# name = "About"
+# url = "about/"
+# weight = 2
 
 # [[main]]
 # name = "Elements"
@@ -29,9 +29,9 @@ url = "blog/"
 
 [[main]]
 # parent = "Pages"
-weight = 3
-name = "Contact"
-url = "contact/"
+# weight = 3
+# name = "Contact"
+# url = "contact/"
 
 [[main]]
 # parent = "Pages"
