@@ -7,5 +7,5 @@ banner:
   button:
     enable: true
     label: "Look at our featured blogs!"
-    link: "https://humansoftpot.com/blogs"
+    link: "https://humansoftpot.com/blog/"
 ---
