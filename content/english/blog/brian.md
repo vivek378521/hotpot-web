@@ -3,7 +3,7 @@ title: "Humans of TPOT: Brian Brain"
 meta_title: ""
 description: "this is meta description"
 date: 2022-04-04T05:00:00Z
-image: "/images/hotpot-banner.jpeg"
+image: "/images/hotpot-twitter-banner-brian.jpeg"
 categories: ["tech-people", "tpot"]
 author: "Vivek Khatri"
 tags: ["blog", "twitter"]
