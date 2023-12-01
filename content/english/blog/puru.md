@@ -2,7 +2,7 @@
 title: "Humans of TPOT: Puru"
 meta_title: "Cat account"
 description: "lessgo!"
-date: 2023-12-1T05:00:00Z
+date: 2023-11-29T05:00:00Z
 image: "/images/hotpot-twitter-banner-puru.png"
 categories: ["tech-people", "tpot", "cat"]
 author: "Vivek Khatri"
@@ -12,9 +12,9 @@ draft: false
 
 Things have been a little slow here, not because of our Chief Editor's subpar selling skills. Just kidding. We cannot blame him for the sluggishness; there is no incentive for anyone to do this. Until now, we have only featured people who were his friends and incredibly kind. Perhaps we need some changes, but we don't know what those changes are. Rest assured, we are working hard to sort things out.
 
-Anyway, today's guest is [Puru](https://x.com/hey_puru?s=20).
+Anyway, today's guest is **[Puru](https://x.com/hey_puru?s=20)**.
 
-![Image](https://pbs.twimg.com/profile_images/1730291958776786945/J-BzDcUL_400x400.jpg align="center")
+![Image](https://pbs.twimg.com/profile_images/1730291958776786945/J-BzDcUL_400x400.jpg)
 
 We don't know much about Puru, apart from the fact that it is a wholesome cat account. You know, cats and wholesomeness—seems like an odd pairing. :P
 
@@ -54,7 +54,7 @@ We adore cats. Our initial interaction with Puru was through Miaow's tweets, obs
 10. Who is your favourite anime waifu/ fav actress/actor?**  
     I watch Korean dramas and my favourite it yumi's cell**
     
-    ![Yumi's Cells - Wikipedia](https://upload.wikimedia.org/wikipedia/en/c/c7/Yumi%27s_Cells.jpg align="center")
+    ![Yumi's Cells - Wikipedia](https://upload.wikimedia.org/wikipedia/en/c/c7/Yumi%27s_Cells.jpg)
     
 11. What is the secret to your bangers?  
     **I put what I think**
