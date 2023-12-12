@@ -2,7 +2,7 @@
 title: "The Hotpot Crisis"
 meta_title: "Crisis"
 description: "Crisis and chaos"
-date: 2023-12-12T05:00:00Z
+date: 2023-12-12T00:00:00Z
 image: "/images/hotpot-banner.png"
 categories: ["bts", "tpot"]
 author: "Vivek Khatri"
