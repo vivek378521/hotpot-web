@@ -2,7 +2,7 @@
 title: "Humans of TPOT: Cholesterol"
 meta_title: "good for health"
 description: "this is meta description"
-date: 2022-12-24T05:00:00Z
+date: 2023-12-24T05:00:00Z
 image: "/images/hotpot-twitter-banner-cholesterol.png"
 categories: ["tech-people", "tpot"]
 author: "Vivek Khatri"
