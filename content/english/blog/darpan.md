@@ -15,7 +15,7 @@ We are going back to the basics, featuring more people on the blog. Everything e
 
 Anyway, today we have [Darpan](https://x.com/darpanthisside?s=20) ji with us.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708496750359/5f744eab-833d-4ea6-b9d6-bc2390b4f59f.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708496750359/5f744eab-833d-4ea6-b9d6-bc2390b4f59f.jpeg)
 
 He is a pun-tastic person, okay, that's all I know about him. I noticed Darpan ji when he was regularly posting puns on the hell-site (twitter). A lot of them are good. (No disrespecc)
 
@@ -53,28 +53,28 @@ I think I should know more about the person that I am featuring.
 7. Favourite woman?
     
 
-![Watch Aubrey Plaza Break Every Single Late Night Host For 13 Solid Minutes](https://decider.com/wp-content/uploads/2018/07/aubrey-plaza-late-show.jpg?quality=75&strip=all align="left")
+![Watch Aubrey Plaza Break Every Single Late Night Host For 13 Solid Minutes](https://decider.com/wp-content/uploads/2018/07/aubrey-plaza-late-show.jpg?quality=75&strip=all)
 
-1. What is your favourite breakfast?  
+8. What is your favourite breakfast?  
     **Anything with bread, butter, cheese, milkshake etc. OR maa ke hath ke aloo ke paranthe with homemade butter.**
     
-2. A dish you can never get enough of?
+9. A dish you can never get enough of?
     
     **Rajma Chawal, Thukpa, momo, mughlai chicken. Hard to choose one sorry.**
     
-3. What Lays flavour do you like?
+10. What Lays flavour do you like?
     
     **It’s Blue lays and Chile Limon on rotation these daysAre you blocked by lex?**
     
-4. What is the secret to your bangers?
+11. What is the secret to your bangers?
     
     **Think i’m good with words and it comes naturally. But also I studied literature and started my career as a content writer. I came back on twitter just to sharpen my copywriting skills. That is why majority of my tweets are one liners.**
     
-5. Favourite movie? (Any top 5)
+12. Favourite movie? (Any top 5)
     
     **I don’t watch movies any more but long time back i used to love Fight Club, Dev D, Trainspotting and a few more maybe.**
     
-6. any 5 go-to songs that you think people should listen?
+13. any 5 go-to songs that you think people should listen?
     
     **No 5 songs but we at boxout.fm just released our best of 2023 playlists featuring the best releases from Indian Producers. These playlists are curated in collaboration with some of the best upcoming artists in their respective genres**
     
@@ -97,7 +97,7 @@ I think I should know more about the person that I am featuring.
 9. An image from your camera roll that you think captures your essence?
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708497909634/c49f7bfd-8fa3-4f96-b2cb-e9a04ee817ed.jpeg align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708497909634/c49f7bfd-8fa3-4f96-b2cb-e9a04ee817ed.jpeg)
 
 ---
 
