@@ -1,5 +1,5 @@
 ---
-title: "Humans of TPOT: Dar-pun"
+title: "Humans of TPOT: Darpan"
 meta_title: "good for health"
 description: "this is meta description"
 date: 2024-02-20T05:00:00Z
@@ -87,14 +87,14 @@ I think I should know more about the person that I am featuring.
     * 100% Indian Alternative (Curated by Merak)  
         [https://open.spotify.com/playlist/76MiJ054AyRsNwf66aU0Qa?si=cc3bcb65f97f461d](https://open.spotify.com/playlist/76MiJ054AyRsNwf66aU0Qa?si=cc3bcb65f97f461d)
         
-7. any kinda sports you follow?
+14. any kinda sports you follow?
     
     **life on hard mode**
     
-8. The last meme that made you chuckle?  
+15. The last meme that made you chuckle?  
     **All bell IQ curve memes are my favourite**
     
-9. An image from your camera roll that you think captures your essence?
+16. An image from your camera roll that you think captures your essence?
     
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1708497909634/c49f7bfd-8fa3-4f96-b2cb-e9a04ee817ed.jpeg)
