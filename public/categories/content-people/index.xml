@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content-People on Humans of TPOT</title>
+    <link>//localhost:1313/categories/content-people/</link>
+    <description>Recent content in Content-People on Humans of TPOT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/content-people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humans of TPOT: Darpan</title>
+      <link>//localhost:1313/blog/darpan/</link>
+      <pubDate>Tue, 20 Feb 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/darpan/</guid>
+      <description>Been a long time folks, the ups and downs of running a 200 follower account got to us.</description>
+    </item>
+  </channel>
+</rss>

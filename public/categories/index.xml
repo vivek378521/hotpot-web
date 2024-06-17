@@ -1,1 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Humans of TPOT</title><link>/categories/</link><description>Recent content in Categories on Humans of TPOT</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml"/><item><title>tech-people</title><link>/categories/tech-people/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/categories/tech-people/</guid><description/></item><item><title>tpot</title><link>/categories/tpot/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/categories/tpot/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Humans of TPOT</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Humans of TPOT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content-People</title>
+      <link>//localhost:1313/categories/content-people/</link>
+      <pubDate>Tue, 20 Feb 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/content-people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tpot</title>
+      <link>//localhost:1313/categories/tpot/</link>
+      <pubDate>Tue, 20 Feb 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/tpot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tpot-People</title>
+      <link>//localhost:1313/categories/tpot-people/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/tpot-people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech-People</title>
+      <link>//localhost:1313/categories/tech-people/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/tech-people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bts</title>
+      <link>//localhost:1313/categories/bts/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/bts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cat</title>
+      <link>//localhost:1313/categories/cat/</link>
+      <pubDate>Wed, 29 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/cat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design-People</title>
+      <link>//localhost:1313/categories/design-people/</link>
+      <pubDate>Sat, 11 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/design-people/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

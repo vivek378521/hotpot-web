@@ -1,1 +1,215 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Humans of TPOT</title><link>/</link><description>Recent content on Humans of TPOT</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Humans of TPOT: Brian Brain</title><link>/blog/brian/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/brian/</guid><description>Yesterday, I was pondering how we arrived at this point in life.</description></item><item><title>Humans of TPOT: Deba and West Bengal Politics</title><link>/blog/deba/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/deba/</guid><description>You might have read the tweets where I mentioned that things have been slow here, slower than usual.</description></item><item><title>Humans of TPOT: Go Go Go Govind ji</title><link>/blog/govind/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/govind/</guid><description>I have been thinking about this a long time, what if we could do whatever we wanted without worrying about money.</description></item><item><title>Humans of TPOT: Jeff ji Amrica</title><link>/blog/jeff/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/jeff/</guid><description>I got up early today, because a mouse was making a ruckus and throwing things which were kept above the wardrobe.</description></item><item><title>Humans of TPOT: JSK Shri Hacker ji</title><link>/blog/shrihacker/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/shrihacker/</guid><description>All of you who are wondering what JSK stands for, it is, Jai Shri Krishna.</description></item><item><title>Humans of TPOT: log(Sam)</title><link>/blog/sam/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/sam/</guid><description>I have been thinking about starting to exercise, nothing extreme like going to the gym and pumping iron, just long walks, some cycling.</description></item><item><title>Humans of TPOT: Param Likes Computers</title><link>/blog/param/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/param/</guid><description>Listening to some songs make you nostalgic, some songs make you sad, some songs makes you happy, some songs make you want to pick up your keyboard smash it on table and then dance while you continue the destruction.</description></item><item><title>Humans of TPOT: Prge and his Army of egirls</title><link>/blog/prge/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/prge/</guid><description>Yesterday wasn&amp;rsquo;t such a good day, but today is better, and life seems worth living.</description></item><item><title>Humans of TPOT: Ranveer and his Accounts</title><link>/blog/ranveer/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/ranveer/</guid><description>Did I tell you about the huge frog? Oh, yes, I did.</description></item><item><title>Humans of TPOT: Samosa and his perils</title><link>/blog/samosa/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/samosa/</guid><description>Before I get to the guest for today, let me tell you about something I saw today, I saw a big frog today, like really big.</description></item><item><title>Humans of TPOT: The Almighty Telt</title><link>/blog/telt/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/telt/</guid><description>I think a polarised world will work in the benefit of human society because people will see how ridiculous the extreme opinions are and then people will start floating over the centre.</description></item><item><title>Humans of TPOT: The Art of Tokenbending</title><link>/blog/tokenbender/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/tokenbender/</guid><description>Today we are going to talk about a human who plays with LLMs (Large Language Models), TokenBender (e/xperiments) .</description></item><item><title>Humans of TPOT: The Rise of Cocainestudio</title><link>/blog/cokane/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/cokane/</guid><description>This story is not about me but I’ll tell this story as a first person so y’all can suck it!</description></item><item><title>Humans of TPOT: Unraveling EDS</title><link>/blog/eds/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>/blog/eds/</guid><description>I have been on twitter/X for a while now, I know this story isn’t about me, but I am the one writing it, innit?</description></item><item><title>Ready to build your next project with Hugo?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Vivek Khatri</title><link>/authors/vivek-khatri/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/authors/vivek-khatri/</guid><description>I am a Software Engineer, who loves writing things. My curiousity led me to build this initiative.</description></item><item><title>What Users Are Saying About Hugoplate</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humans of TPOT</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Humans of TPOT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Feb 2024 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humans of TPOT: Darpan</title>
+      <link>//localhost:1313/blog/darpan/</link>
+      <pubDate>Tue, 20 Feb 2024 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/darpan/</guid>
+      <description>Been a long time folks, the ups and downs of running a 200 follower account got to us.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Beeryani</title>
+      <link>//localhost:1313/blog/beeryani/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/beeryani/</guid>
+      <description>We are the result of millions of years of evolution, and here we are, tweeting our lives away.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Barbie</title>
+      <link>//localhost:1313/blog/barbie/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/barbie/</guid>
+      <description>How are you, my dear friends? I am doing alright. Today, I met Toad-sama while I was coming back home from the shop.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Aashutosh</title>
+      <link>//localhost:1313/blog/aashutosh/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/aashutosh/</guid>
+      <description>Happy New Year frens.&#xA;We had a good year overall. We featured cool people on our blog, went through some dry spells and lows, but we emerged strong.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Cholesterol</title>
+      <link>//localhost:1313/blog/cholesterol/</link>
+      <pubDate>Sun, 24 Dec 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/cholesterol/</guid>
+      <description>The year&amp;rsquo;s end is near, and I&amp;rsquo;m feeling nostalgic. As I write this, my father is playing sad songs on the speaker, making it difficult to conjure anything remotely funny.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Astronikos</title>
+      <link>//localhost:1313/blog/nikos/</link>
+      <pubDate>Sat, 16 Dec 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/nikos/</guid>
+      <description>Things have been a bit slow on my side. The stock market has been performing well for some days, but I see job losses around, so I am not sure about the state of the economy.</description>
+    </item>
+    <item>
+      <title>The Hotpot Crisis</title>
+      <link>//localhost:1313/blog/crisis/</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/crisis/</guid>
+      <description>Today we will tell you a story about how the greatest management tragedy took place on the platform called X.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Jazzy</title>
+      <link>//localhost:1313/blog/jazzy/</link>
+      <pubDate>Mon, 04 Dec 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/jazzy/</guid>
+      <description>So we are accelerating! I have decided that I will track all the people I have sent links to on Google Sheets and put in reminder dates, and persistently follow up with them until they have filled out the questionnaire—no sitting passively.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Puru</title>
+      <link>//localhost:1313/blog/puru/</link>
+      <pubDate>Wed, 29 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/puru/</guid>
+      <description>Things have been a little slow here, not because of our Chief Editor&amp;rsquo;s subpar selling skills.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Likitha ji</title>
+      <link>//localhost:1313/blog/likitha/</link>
+      <pubDate>Sat, 11 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/likitha/</guid>
+      <description>I have realised that when I sleep on time and enjoy undisturbed sleep, I wake up in a better mood.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Niharika ji</title>
+      <link>//localhost:1313/blog/niharika/</link>
+      <pubDate>Sat, 11 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/niharika/</guid>
+      <description>I have no fun anecdotes to share today about my life.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Vishwanath</title>
+      <link>//localhost:1313/blog/vswnth/</link>
+      <pubDate>Tue, 07 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/vswnth/</guid>
+      <description>My stress buster was to roam around the city in vice city in a car and follow traffic rules whilst doing that.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Brian Brain</title>
+      <link>//localhost:1313/blog/brian/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/brian/</guid>
+      <description>Yesterday, I was pondering how we arrived at this point in life.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Deba and West Bengal Politics</title>
+      <link>//localhost:1313/blog/deba/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/deba/</guid>
+      <description>You might have read the tweets where I mentioned that things have been slow here, slower than usual.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Go Go Go Govind ji</title>
+      <link>//localhost:1313/blog/govind/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/govind/</guid>
+      <description>I have been thinking about this a long time, what if we could do whatever we wanted without worrying about money.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Jeff ji Amrica</title>
+      <link>//localhost:1313/blog/jeff/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/jeff/</guid>
+      <description>I got up early today, because a mouse was making a ruckus and throwing things which were kept above the wardrobe.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: JSK Shri Hacker ji</title>
+      <link>//localhost:1313/blog/shrihacker/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/shrihacker/</guid>
+      <description>All of you who are wondering what JSK stands for, it is, Jai Shri Krishna.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: log(Sam)</title>
+      <link>//localhost:1313/blog/sam/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/sam/</guid>
+      <description>I have been thinking about starting to exercise, nothing extreme like going to the gym and pumping iron, just long walks, some cycling.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Param Likes Computers</title>
+      <link>//localhost:1313/blog/param/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/param/</guid>
+      <description>Listening to some songs make you nostalgic, some songs make you sad, some songs makes you happy, some songs make you want to pick up your keyboard smash it on table and then dance while you continue the destruction.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Prge and his Army of egirls</title>
+      <link>//localhost:1313/blog/prge/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/prge/</guid>
+      <description>Yesterday wasn&amp;rsquo;t such a good day, but today is better, and life seems worth living.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Ranveer and his Accounts</title>
+      <link>//localhost:1313/blog/ranveer/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/ranveer/</guid>
+      <description>Did I tell you about the huge frog? Oh, yes, I did.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Samosa and his perils</title>
+      <link>//localhost:1313/blog/samosa/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/samosa/</guid>
+      <description>Before I get to the guest for today, let me tell you about something I saw today, I saw a big frog today, like really big.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: The Almighty Telt</title>
+      <link>//localhost:1313/blog/telt/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/telt/</guid>
+      <description>I think a polarised world will work in the benefit of human society because people will see how ridiculous the extreme opinions are and then people will start floating over the centre.</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: The Art of Tokenbending</title>
+      <link>//localhost:1313/blog/tokenbender/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/tokenbender/</guid>
+      <description>Today we are going to talk about a human who plays with LLMs (Large Language Models), TokenBender (e/xperiments) .</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: The Rise of Cocainestudio</title>
+      <link>//localhost:1313/blog/cokane/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/cokane/</guid>
+      <description>This story is not about me but I’ll tell this story as a first person so y’all can suck it!</description>
+    </item>
+    <item>
+      <title>Humans of TPOT: Unraveling EDS</title>
+      <link>//localhost:1313/blog/eds/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/eds/</guid>
+      <description>I have been on twitter/X for a while now, I know this story isn’t about me, but I am the one writing it, innit?</description>
+    </item>
+    <item>
+      <title>Ready to build your next project with Hugo?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vivek Khatri</title>
+      <link>//localhost:1313/authors/vivek-khatri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/authors/vivek-khatri/</guid>
+      <description>I am a Software Engineer, who loves writing things. My curiousity led me to build this initiative.</description>
+    </item>
+    <item>
+      <title>What Users Are Saying About Hugoplate</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

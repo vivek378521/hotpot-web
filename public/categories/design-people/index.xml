@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design-People on Humans of TPOT</title>
+    <link>//localhost:1313/categories/design-people/</link>
+    <description>Recent content in Design-People on Humans of TPOT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Nov 2023 05:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/design-people/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Humans of TPOT: Likitha ji</title>
+      <link>//localhost:1313/blog/likitha/</link>
+      <pubDate>Sat, 11 Nov 2023 05:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/likitha/</guid>
+      <description>I have realised that when I sleep on time and enjoy undisturbed sleep, I wake up in a better mood.</description>
+    </item>
+  </channel>
+</rss>
