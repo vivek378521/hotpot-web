@@ -47,15 +47,16 @@ Questionnaire
     Yacine, TDM ji for helping me find technical people / lowbies / anime people -&gt; for anime pfp hacker tpot**
     
 4. Which account do you worship here/ fav account?
-    
-    **I will write who all I have worshipped / fanboyed (I may not fanboy them anymore because if you continue to fanboy, you can’t be friends haha)**
-    
-    **Worshipped: Sidu Ponnappa, amuldotexe, TDM ji, Yacine, Visakanv, Tokenbender, main\_horse, @teortaxesTex (god level ai research guy)  
-    Favourites - honestly a lot over time - lots of people who i talked to in bbit (even though I am not in constant touch)**
-    
-    **Talked a lot to - debadree, filterpapi,Niharika, barbie, raj,pushkar, beeryaniboi (alas), iliekcomputers, naina (fun and inspirational)**
-    
-    **Lately a lot of ai/ml folks who share alpha/are helpful like @andersonbcdefg, @xjdr,  Basically a lot of people who I follow are my favourites.**
+
+    **I will write who all I have worshipped / fanboyed (I may not fanboy them anymore because if you continue to fanboy, you can’t be friends haha)
+    Worshipped: Sidu Ponnappa, amuldotexe, TDM ji, Yacine, Daniel(growing_daniel, love his unhinged poasting), Visakanv, Tokenbender, main_horse, @teortaxesTex (god level ai research guy), Sophie (netcapgirl)
+    Loved Sidu sir’s writing and had lots of interesting convos with him. Learnt a lot from Amul about a lot of things - he is the master of networking and communication. TDM ji, Yacine, Daniel -&gt; I just love their posts. Tokenbender I started interacting with him recently (honestly should have started earlier). It’s fun to talk with him, he casually drops so much alpha too.
+    Main_horse -&gt; I like some of his thoughts and his research replies, same for teortaxes. Sophie is a meme favourite.**
+
+    **Favourites - honestly a lot over time - lots of people who i talked to in bbit (even though I am not in constant touch)
+    Talked a lot to - debadree, filterpapi,Niharika (my tpot mom), barbie, raj,pushkar, beeryaniboi (alas), iliekcomputers, naina (fun and inspirational)
+    Lately a lot of ai/ml folks who share alpha/are helpful like @andersonbcdefg, @xjdr,  Basically a lot of people who I follow are my favourites.**
+
     
 5. Hobbies?  
     **These keep changing. I was into sports - basketball, table tennis but currently don’t have required infra near me to pursue these.**
