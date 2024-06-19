@@ -58,17 +58,16 @@ Questionnaire
     Lately a lot of ai/ml folks who share alpha/are helpful like @andersonbcdefg, @xjdr,  Basically a lot of people who I follow are my favourites.**
 
     
-5. Hobbies?  
-    **These keep changing. I was into sports - basketball, table tennis but currently don’t have required infra near me to pursue these.**
-    
-    **I like writing and building stuff and talking about it.**
-    
-    **I like posting on twitter. I like reading ai research tweets and blogs from people across the internet.**
-    
-    **video games (ps5), movies and tv shows (depends on mood), anime - uggh all these are consumption but yeah**
-    
-    **I like travelling in scenic/naturesque place - this is something I don’t do enough and have been bad at planning. Gotta show some agency in this department. Gotta go to Japan someday.**
-    
+5. Hobbies? 
+    **These keep changing.
+    When I was a kid, I learnt classical music but stopped pursuing when my voice got lower pitch. I shifted to instruments like keyboard and drum. Nowadays I just listen to music - mostly indie pop.
+    I was into sports - basketball, table tennis but currently don’t have required infrastructure near me to pursue these. I just try to go to the small gym I have in my apartment.
+    I like writing and building stuff and talking about it.
+    I like posting on twitter. I like reading ai research tweets and blogs from people across the internet.
+    video games (ps5), movies and tv shows (depends on mood), anime - uggh all these are consumption but yeah. I am a fan of FromSoftware games. My favourite one so far is Elden Ring.
+    I like travelling in scenic/naturesque place - this is something I don’t do enough and have been bad at planning. Gotta show some agency in this department. Gotta go to Japan someday.
+    I am sort of a foodie too.**
+        
 6. Profession?  
     **Backend software engineering (B2B SAAS java lol). To put it more glamorously, Highly scalable distributed systems guy. Got laid off few months back and currently on a break. Did deep learning during college. Last few months, I have been catching up on the LLM research (Foundational layer) as well as trying to catch up with the applied LLMs.**
     
