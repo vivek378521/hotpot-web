@@ -48,9 +48,12 @@ Questionnaire
     
 4. Which account do you worship here/ fav account?
 
-    **I will write who all I have worshipped / fanboyed (I may not fanboy them anymore because if you continue to fanboy, you can’t be friends haha)
-    Worshipped: Sidu Ponnappa, amuldotexe, TDM ji, Yacine, Daniel(growing_daniel, love his unhinged poasting), Visakanv, Tokenbender, main_horse, @teortaxesTex (god level ai research guy), Sophie (netcapgirl)
-    Loved Sidu sir’s writing and had lots of interesting convos with him. Learnt a lot from Amul about a lot of things - he is the master of networking and communication. TDM ji, Yacine, Daniel -&gt; I just love their posts. Tokenbender I started interacting with him recently (honestly should have started earlier). It’s fun to talk with him, he casually drops so much alpha too.
+    **I will write who all I have worshipped / fanboyed (I may not fanboy them anymore because if you continue to fanboy, you can’t be friends haha)**
+
+    **Worshipped: Sidu Ponnappa, amuldotexe, TDM ji, Yacine, Daniel(growing_daniel, love his unhinged poasting), Visakanv, Tokenbender, main_horse, @teortaxesTex (god level ai research guy), Sophie (netcapgirl)
+    Loved Sidu sir’s writing and had lots of interesting convos with him.**
+    
+    **Learnt a lot from Amul about a lot of things - he is the master of networking and communication. TDM ji, Yacine, Daniel -&gt; I just love their posts. Tokenbender I started interacting with him recently (honestly should have started earlier). It’s fun to talk with him, he casually drops so much alpha too.
     Main_horse -&gt; I like some of his thoughts and his research replies, same for teortaxes. Sophie is a meme favourite.**
 
     **Favourites - honestly a lot over time - lots of people who i talked to in bbit (even though I am not in constant touch)
