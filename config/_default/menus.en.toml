@@ -28,6 +28,11 @@ name = "Blog"
 url = "blog/"
 
 [[main]]
+weight = 4
+name = "TPOT News"
+url = "tpot-news/"
+
+[[main]]
 # parent = "Pages"
 # weight = 3
 # name = "Contact"
@@ -35,7 +40,7 @@ url = "blog/"
 
 [[main]]
 # parent = "Pages"
-weight = 3
+weight = 5
 name = "Authors"
 url = "authors/"
 

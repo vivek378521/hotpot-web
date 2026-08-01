@@ -1,0 +1,36 @@
+{{ define "main" }}
+  <style>
+    .news-index { padding: 3rem 0 5rem; }
+    .news-index__intro { max-width: 48rem; margin-bottom: 2.5rem; }
+    .news-index__eyebrow, .issue-card__meta { color: #c7a65c; font: 500 .72rem/1.2 monospace; letter-spacing: .1em; text-transform: uppercase; }
+    .news-index__title { margin: .6rem 0; color: inherit; font-family: Georgia, serif; }
+    .issue-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 360px)); gap: 1.25rem; }
+    .issue-card { min-height: 22rem; display: flex; flex-direction: column; padding: 1.35rem; color: #193a28; background: #f5e7ba; border: 1px solid #a7833a; box-shadow: 7px 8px 0 rgba(0, 0, 0, .18); transition: transform .18s ease, box-shadow .18s ease; }
+    .issue-card:hover { color: #193a28; transform: translateY(-4px); box-shadow: 10px 12px 0 rgba(0, 0, 0, .18); }
+    .issue-card__meta { color: #75561a; display: flex; justify-content: space-between; padding-bottom: .8rem; border-bottom: 2px solid #193a28; }
+    .issue-card__mark { width: 100%; max-width: 14rem; margin: 1.2rem auto .8rem; mix-blend-mode: multiply; }
+    .issue-card h2 { margin: .5rem 0 1rem; color: #193a28; font: 800 1.5rem/1.05 Georgia, serif; }
+    .issue-card p { margin: 0; color: #36503b; font-size: .82rem; line-height: 1.55; }
+    .issue-card__read { margin-top: auto; padding-top: 1.2rem; color: #a6462d; font: 600 .74rem/1.2 monospace; letter-spacing: .06em; text-transform: uppercase; }
+  </style>
+  <section class="news-index">
+    <div class="container">
+      <div class="news-index__intro">
+        <p class="news-index__eyebrow">Humans of TPOT&trade;</p>
+        <h1 class="news-index__title">TPOT News</h1>
+        <p>The archive for each issue from the TPOT news desk.</p>
+      </div>
+      <div class="issue-grid">
+        {{ range .RegularPages.ByDate.Reverse }}
+          <a class="issue-card" href="{{ .RelPermalink }}" aria-label="Read {{ .Title }}">
+            <div class="issue-card__meta"><span>{{ .Date.Format "02 Jan 2006" }}</span><span>{{ .Params.issue }}</span></div>
+            <img class="issue-card__mark" src="/images/tpot-times-logo.png" alt="TPOT Times" />
+            <h2>{{ .Params.coverline }}</h2>
+            <p>{{ .Description }}</p>
+            <span class="issue-card__read">Read issue &rarr;</span>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+{{ end }}

@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>TPOT Times | A4 Front Page</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,600;0,700;0,800;0,900;1,700&display=swap" rel="stylesheet" />
+    <style>
+      :root { --ink:#193a28; --paper:#f5e7ba; --paper-shadow:#d9bd75; --red:#9e3e2b; --line:#625833; }
+      * { box-sizing:border-box; }
+      body { margin:0; padding:24px; min-height:100vh; background:#aa7d32; background-image:linear-gradient(90deg,rgba(73,50,10,.1) 1px,transparent 1px),linear-gradient(rgba(73,50,10,.08) 1px,transparent 1px); background-size:6px 6px; color:var(--ink); font-family:"Libre Baskerville",Georgia,serif; }
+      .toolbar { max-width:794px; margin:0 auto 16px; display:flex; align-items:center; justify-content:space-between; gap:16px; color:#f8ebc4; }
+      .toolbar p { margin:0; font:500 10px "DM Mono",monospace; letter-spacing:1.2px; text-transform:uppercase; }
+      button { appearance:none; border:1px solid #f6d88d; padding:11px 15px; color:#173827; background:#e9c36e; cursor:pointer; font:500 10px "DM Mono",monospace; letter-spacing:.8px; text-transform:uppercase; box-shadow:3px 3px 0 rgba(52,34,5,.25); }
+      button:hover { transform:translateY(-1px); }
+      .a4 { width:210mm; min-height:297mm; margin:0 auto; padding:11mm 12mm 9mm; overflow:hidden; position:relative; background:var(--paper); border:1px solid #896c30; box-shadow:12px 15px 28px rgba(53,34,7,.28); }
+      .a4:before { content:""; position:absolute; inset:0; opacity:.18; pointer-events:none; background-image:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(74,52,14,.15) 4px); mix-blend-mode:multiply; }
+      .sheet { position:relative; z-index:1; }
+      .editable { outline:0; }
+      .editable:focus { box-shadow:inset 0 -2px 0 rgba(158,62,43,.6); }
+      .topline { display:grid; grid-template-columns:1fr auto 1fr; gap:10px; align-items:center; border-top:2.5px solid var(--ink); border-bottom:1px solid var(--ink); padding:5px 0; font:500 7.5px "DM Mono",monospace; letter-spacing:.5px; text-transform:uppercase; }
+      .topline span:last-child { text-align:right; }
+      .issue { color:#816120; }
+      .masthead { display:block; width:100%; max-width:100mm; height:auto; margin:1mm auto 0; mix-blend-mode:multiply; }
+      .edition { margin:0 0 2mm; text-align:center; color:#7d5b18; font:500 7px "DM Mono",monospace; letter-spacing:1.7px; text-transform:uppercase; }
+      .category { display:inline-block; padding:3px 7px; color:var(--paper); background:var(--red); font:500 7px "DM Mono",monospace; letter-spacing:1px; text-transform:uppercase; }
+      .main-headline { margin:2.5mm 0 2mm; max-width:100%; font:800 25px/.98 "Playfair Display",Georgia,serif; letter-spacing:0; text-align:center; }
+      .standfirst { max-width:145mm; margin:0 auto 4mm; color:#314532; font-size:10px; line-height:1.45; text-align:center; }
+      .main-rule { margin:0 0 3mm; border:0; border-top:2.5px solid var(--ink); }
+      .lead-grid { display:grid; grid-template-columns:1.1fr .9fr; gap:4mm; border-bottom:1px solid var(--line); padding-bottom:3mm; }
+      .lead-image { height:52mm; padding:4mm; display:flex; flex-direction:column; justify-content:flex-end; color:#f7eabe; background:#254634; }
+      .lead-image strong { font:800 24px/.9 "Playfair Display",Georgia,serif; }
+      .lead-image span { margin-top:3mm; max-width:55mm; font:italic 9px/1.3 "Libre Baskerville",Georgia,serif; }
+      .lead-copy h2 { margin:0 0 2mm; font:800 17px/1 "Playfair Display",Georgia,serif; }
+      .lead-copy p { margin:0; color:#334432; font-size:8.5px; line-height:1.48; }
+      .byline { margin:3mm 0 0 !important; color:#7b5c1b !important; font:500 6.5px "DM Mono",monospace !important; letter-spacing:.5px; text-transform:uppercase; }
+      .stories { display:grid; grid-template-columns:repeat(3,1fr); gap:3.5mm; margin-top:4mm; }
+      .story { min-width:0; border-top:1px solid var(--line); padding-top:2mm; }
+      .story + .story { border-left:1px solid var(--line); padding-left:3.5mm; }
+      .story h3 { margin:0 0 1.5mm; font:800 12px/1.05 "Playfair Display",Georgia,serif; }
+      .story p { margin:0; color:#324330; font-size:7.5px; line-height:1.5; }
+      .bottom { display:grid; grid-template-columns:1.35fr .65fr; gap:4mm; margin-top:4mm; border-top:2px solid var(--ink); padding-top:3mm; }
+      .quote { padding-right:4mm; font:italic 12px/1.35 "Libre Baskerville",Georgia,serif; }
+      .quote b { display:block; margin-bottom:1mm; color:var(--red); font:500 6.5px "DM Mono",monospace; letter-spacing:.8px; font-style:normal; text-transform:uppercase; }
+      .brief { border-left:1px solid var(--line); padding-left:4mm; }
+      .brief h3 { margin:0 0 1.5mm; font:800 11px/1 "Playfair Display",Georgia,serif; }
+      .brief p { margin:0; font-size:7px; line-height:1.45; }
+      .footer { margin-top:4mm; display:flex; justify-content:space-between; border-top:1px solid var(--ink); padding-top:1.5mm; font:500 6px "DM Mono",monospace; letter-spacing:.6px; text-transform:uppercase; }
+      @media (max-width:850px) { body { padding:12px; } .a4 { width:100%; min-height:auto; aspect-ratio:210 / 297; padding:5.24% 5.71% 4.29%; } .toolbar { width:100%; } .masthead { max-width:48%; } .topline { font-size:clamp(4px,1vw,7.5px); } .edition,.category,.byline,.footer { font-size:clamp(4px,.9vw,7px) !important; } .main-headline { font-size:clamp(15px,4.5vw,25px); } .standfirst { font-size:clamp(6px,1.5vw,10px); } .lead-image { height:25vw; } .lead-image strong { font-size:clamp(13px,4vw,24px); } .lead-image span,.lead-copy p { font-size:clamp(5px,1.25vw,8.5px); } .lead-copy h2 { font-size:clamp(10px,2.5vw,17px); } .story h3,.quote { font-size:clamp(7px,1.75vw,12px); } .story p,.brief p { font-size:clamp(4.8px,1.1vw,7.5px); } .brief h3 { font-size:clamp(6px,1.6vw,11px); } }
+      @media print { body { padding:0; background:none; } .toolbar { display:none; } .a4 { margin:0; border:0; box-shadow:none; } }
+    </style>
+  </head>
+  <body>
+    <div class="toolbar">
+      <p>Click any text on the paper to edit it</p>
+      <button id="download" type="button">Download as PNG</button>
+    </div>
+    <article class="a4" id="newspaper">
+      <div class="sheet">
+        <div class="topline"><span class="editable" contenteditable="true">Friday, 1 August 2026</span><span class="issue">Independent &amp; unhurried</span><span class="editable" contenteditable="true">Issue no. 001</span></div>
+        <img class="masthead" src="static/images/tpot-times-logo.png" alt="TPOT Times" />
+        <p class="edition editable" contenteditable="true">Humans of TPOT™</p>
+        <div style="text-align:center"><span class="category editable" contenteditable="true">The big story</span></div>
+        <h1 class="main-headline editable" contenteditable="true">Leopold Aschenbrenner, the celebrity husband of Anthropic CoS, suffered major losses and had to sell somethings from his fund to other big fund</h1>
+        <p class="standfirst editable" contenteditable="true">Mr Leopold was not avaiable for comment, but from what we heard was that he was leveraged to the head and then something happened and then he had losses. There is also a letter that he sent to his investors. It was about how everything is alright and no need to worry.</p>
+        <hr class="main-rule" />
+        <p class="byline editable" contenteditable="true">By Vivek Khatri, Humans of TPOT™</p>
+        <section class="stories">
+          <article class="story"><h3 class="editable" contenteditable="true">Anthropic and OpenAI again fussing over who hacked who more</h3><p class="editable" contenteditable="true">Anthropic said we hacked something, then OpenAI said we hacked 3 somethings, then Anthropic said we hacked more than 3 things, please leave the models alone, giving them difficult tasks makes them do wrong things, like humans,</p></article>
+          <article class="story"><h3 class="editable" contenteditable="true">Deepseek released a new model DeepSeek-V4-Flash which performs much better than the preview model</h3><p class="editable" contenteditable="true">The benchmarks are live and the API too, people are saying it is good, we can only confirm that after using it ourselves. Stay Tuned.</p></article>
+          <article class="story"><h3 class="editable" contenteditable="true">A black Centaur like Robot seems to garner negative reviews</h3><p class="editable" contenteditable="true">Turns out making evil looking robots is not highly liked by the community,</p></article>
+        </section>
+        <section class="bottom">
+          <div class="quote editable" contenteditable="true"><b>Weekend watch</b>Donald Trump is going to attack Iran<br /><span style="font-size:8px">As he always says on the weekends.</span></div>
+          <div class="brief"><h3 class="editable" contenteditable="true">The bulletin</h3><p class="editable" contenteditable="true">humansoftpot.com</p></div>
+        </section>
+      </div>
+      <div class="footer"><span>Humans of TPOT™</span><span class="editable" contenteditable="true">Written by Vivek Khatri</span><span class="editable" contenteditable="true">humansoftpot.com</span></div>
+    </article>
+    <script src="browser-assets/logo-data.js"></script>
+    <script src="browser-assets/html2canvas.min.js"></script>
+    <script>
+      const masthead = document.querySelector('.masthead');
+      if (window.TPOT_TIMES_LOGO) masthead.src = window.TPOT_TIMES_LOGO;
+
+      document.getElementById('download').addEventListener('click', async () => {
+        const button = document.getElementById('download');
+        button.textContent = 'Rendering image...';
+        document.activeElement?.blur();
+        try {
+          if (!window.html2canvas || !window.TPOT_TIMES_LOGO) throw new Error('Image renderer did not load.');
+          await masthead.decode();
+          const paper = document.getElementById('newspaper');
+          const scale = 3;
+          const canvas = await html2canvas(paper, { scale, backgroundColor: '#f5e7ba', useCORS: true });
+          const paperTop = paper.getBoundingClientRect().top;
+          const footerBottom = document.querySelector('.footer').getBoundingClientRect().bottom;
+          const contentHeight = Math.min(canvas.height, Math.ceil((footerBottom - paperTop + 28) * scale));
+          const croppedCanvas = document.createElement('canvas');
+          croppedCanvas.width = canvas.width;
+          croppedCanvas.height = contentHeight;
+          croppedCanvas.getContext('2d').drawImage(canvas, 0, 0, canvas.width, contentHeight, 0, 0, canvas.width, contentHeight);
+          const link = document.createElement('a');
+          link.download = 'tpot-times-front-page.png';
+          link.href = croppedCanvas.toDataURL('image/png');
+          link.click();
+        } catch (error) {
+          console.error(error);
+          button.textContent = 'Could not render image';
+          window.setTimeout(() => { button.textContent = 'Download as PNG'; }, 2500);
+          return;
+        }
+        button.textContent = 'Download as PNG';
+      });
+    </script>
+  </body>
+</html>
