@@ -14,6 +14,7 @@
     .news-paper__edition { margin: 0 0 1rem; color: #7d5b18; text-align: center; font: 500 .57rem/1.2 monospace; letter-spacing: .12em; text-transform: uppercase; }
     .news-paper__tag { display: table; margin: auto; padding: .25rem .45rem; color: #f5e7ba; background: #9e3e2b; font: 500 .57rem/1.2 monospace; letter-spacing: .08em; text-transform: uppercase; }
     .news-paper h1 { margin: .75rem 0 .6rem; color: #193a28; font: 800 clamp(1.65rem, 4.5vw, 2.55rem)/.98 Georgia, serif; text-align: center; }
+    .news-paper h1.news-paper__headline--long { font: 800 clamp(1.25rem, 3.4vw, 1.9rem)/1.08 Georgia, serif; }
     .news-paper__standfirst { max-width: 620px; margin: 0 auto 1rem; color: #334432; font-size: .85rem; line-height: 1.5; text-align: center; }
     .news-paper__byline { margin: 0 0 1.1rem; padding-top: .75rem; border-top: 2px solid #193a28; color: #7b5c1b; font: 500 .57rem/1.2 monospace; letter-spacing: .05em; text-transform: uppercase; }
     .news-paper__stories { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; }
@@ -41,18 +42,18 @@
           <div class="news-paper__topline"><span>{{ .Date.Format "Monday, 2 January 2006" }}</span><span>Independent &amp; unhurried</span><span>{{ .Params.issue }}</span></div>
           <img class="news-paper__logo" src="/images/tpot-times-logo.png" alt="TPOT Times" />
           <p class="news-paper__edition">Humans of TPOT&trade;</p>
-          <span class="news-paper__tag">The big story</span>
-          <h1>Leopold Aschenbrenner, the celebrity husband of Anthropic CoS, suffered major losses and had to sell somethings from his fund to other big fund</h1>
-          <p class="news-paper__standfirst">Mr Leopold was not avaiable for comment, but from what we heard was that he was leveraged to the head and then something happened and then he had losses. There is also a letter that he sent to his investors. It was about how everything is alright and no need to worry.</p>
-          <p class="news-paper__byline">By Vivek Khatri, Humans of TPOT&trade;</p>
+          <span class="news-paper__tag">{{ .Params.newspaper.tag }}</span>
+          <h1 class="{{ if gt (len (.Params.newspaper.headline | default "")) 90 }}news-paper__headline--long{{ end }}">{{ .Params.newspaper.headline }}</h1>
+          <p class="news-paper__standfirst">{{ .Params.newspaper.standfirst }}</p>
+          <p class="news-paper__byline">{{ .Params.newspaper.byline }}</p>
           <div class="news-paper__stories">
-            <article class="news-story"><h2>Anthropic and OpenAI again fussing over who hacked who more</h2><p>Anthropic said we hacked something, then OpenAI said we hacked 3 somethings, then Anthropic said we hacked more than 3 things, please leave the models alone, giving them difficult tasks makes them do wrong things, like humans,</p></article>
-            <article class="news-story"><h2>Deepseek released a new model DeepSeek-V4-Flash which performs much better than the preview model</h2><p>The benchmarks are live and the API too, people are saying it is good, we can only confirm that after using it ourselves. Stay Tuned.</p></article>
-            <article class="news-story"><h2>A black Centaur like Robot seems to garner negative reviews</h2><p>Turns out making evil looking robots is not highly liked by the community,</p></article>
+            {{ range .Params.newspaper.stories }}
+              <article class="news-story"><h2>{{ .headline }}</h2><p>{{ .text }}</p></article>
+            {{ end }}
           </div>
           <div class="news-paper__bottom">
-            <div class="news-paper__quote"><b>Weekend watch</b>Donald Trump is going to attack Iran<br /><span style="font-size:.72rem">As he always says on the weekends.</span></div>
-            <div class="news-paper__brief"><h2>The bulletin</h2><p>humansoftpot.com</p></div>
+            <div class="news-paper__quote"><b>{{ .Params.newspaper.quote.label }}</b>{{ .Params.newspaper.quote.html | safeHTML }}</div>
+            <div class="news-paper__brief"><h2>{{ .Params.newspaper.brief.heading }}</h2><p>{{ .Params.newspaper.brief.text }}</p></div>
           </div>
           <div class="news-paper__footer"><span>Humans of TPOT&trade;</span><span>Written by Vivek Khatri</span><span>humansoftpot.com</span></div>
         </div>
